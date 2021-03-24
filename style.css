@@ -1,0 +1,36 @@
+.nav{
+    width: 1000px;
+    margin: 20px auto;
+    display: flex;
+    background-color: #333333;
+    color: #FFF;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-title{
+    padding-left: 20px;
+}
+
+.nav a {
+    color: #ffffff;
+    
+}
+
+.nav a:hover{
+    display: inline-block;
+    color:black;
+}
+
+.nav li{
+  display: inline-block;
+  padding: 20px;
+}
+
+.btn{
+    height: 40px;
+    width: 200px;
+ background-color: #17a2b8;
+ color: #FFF;
+ border: #000;
+}
